@@ -1,5 +1,5 @@
 # GorillaShotForce ![all](https://img.shields.io/github/downloads/elliotsilly/GorillaShotForce/total)
-
+Wouldn't let me fork for some reason, so I had to create my own repo.
 <div align="center">
  <a href="https://discord.gg/dev9998">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
