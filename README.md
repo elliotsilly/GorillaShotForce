@@ -1,6 +1,7 @@
-Wouldn't let me fork, so I had to create my own repo.
+
 
 <div align="center">
+ Wouldn't let me fork, so I had to create my own repo.
  <a href="https://discord.gg/dev9998">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
   </a>
