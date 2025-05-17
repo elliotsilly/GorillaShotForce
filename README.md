@@ -4,7 +4,7 @@
  <a href="https://discord.gg/dev9998">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
   </a>
-  <a href="https://github.com/developer9998/GorillaShotForce/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-%23373737"</img></a>
+  <a href="https://github.com/elliotsilly/GorillaShotForce/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-%23373737"</img></a>
   <img src="https://img.shields.io/github/downloads/elliotsilly/GorillaShotForce/total?label=Downloads">
  <a href="https://youtu.be/zL_mrPkXowY?si=h2Igh92ksW_7V-Uy">
   <img src="https://raw.githubusercontent.com/developer9998/GorillaShotForce/main/vlcsnap-00067.png" style="display: block; margin-left: auto; margin-right: auto; width=50%;">
