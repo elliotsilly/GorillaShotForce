@@ -7,7 +7,7 @@
   <a href="https://github.com/elliotsilly/GorillaShotForce/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-%23373737"</img></a>
   <img src="https://img.shields.io/github/downloads/elliotsilly/GorillaShotForce/total?label=Downloads">
  <a href="https://youtu.be/zL_mrPkXowY?si=h2Igh92ksW_7V-Uy">
-  <img src="https://raw.githubusercontent.com/developer9998/GorillaShotForce/main/vlcsnap-00067.png" style="display: block; margin-left: auto; margin-right: auto; width=50%;">
+  <img src="https://raw.githubusercontent.com/elliotsilly/GorillaShotForce/main/vlcsnap-00067.png" style="display: block; margin-left: auto; margin-right: auto; width=50%;">
  </a>
   <p align="center">GorillaShotForce is a gameplay mod for Gorilla Tag that will launch the player when they launch or throw a projectile in a modded room.</p>
 </div>
